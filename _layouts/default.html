@@ -23,17 +23,19 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-          <h4 id="research">
-              <a class="research_link" href="{{ taylorshiroff.github.io/research }}">Research</a>
-          </h4>
-          
-          <h4 id="book"> 
-              <a class="book_link" href="{{ taylorshiroff.github.io/next_year }}">Next Year in America</a>
-          </h4>
-          
-          <h4 id="music"> 
-              <a class="music_link" href="{{ taylorshiroff.github.io/music }}">Music</a>
-          </h4>
+          <section id="links">
+            <h4 id="research">
+                <a class="research_link" href="{{ 'https://taylorshiroff.github.io/research' }}">Research</a>
+            </h4>
+            
+            <h4 id="book"> 
+                <a class="book_link" href="{{ 'https://taylorshiroff.github.io/next_year' }}">Next Year in America</a>
+            </h4>
+            
+            <h4 id="music"> 
+                <a class="music_link" href="{{ 'https://taylorshiroff.github.io/music' }}">Music</a>
+            </h4>
+          </section>
           
           {% if site.show_downloads %}
             <section id="downloads">
