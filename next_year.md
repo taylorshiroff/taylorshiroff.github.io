@@ -1,3 +1,7 @@
+---
+layout: not_mainpage
+---
+
 *Next Year in America* is a book I wrote that tells the story of the roughly two million Jews who immigrated to the United States from Eastern Europe between 1881 and 1924. But rather than taking the traditional approach of telling this story through old primary sources and aging esoteric secondary sources, I tell their story through the lives and experiences of my own ancestors. 
 
 Don't get me wrong, there's plenty of history in this book. Indeed, it begins with the origins of the Jews in Eastern Europe, and begins paying close attention once some familiar characters--Poland, Russia, Ukraine--begin to emerge in the 17th and 18th centuries. It is at this point where we meet our first few characters: my seventh-great-grandparents, Rubin and Fayga, who lived in the town of Staszow, Poland in the late 18th century. 
