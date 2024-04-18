@@ -3,5 +3,9 @@ plugins:
 - jekyll-remote-theme 
 
 title: Taylor Shiroff
-description: Research analyst, author, occasional musician
+description: Research analyst, amateur historian, occasional musician
 show_downloads: false
+
+research_link: https://taylorshiroff.github.io/research
+next_year_link: https://taylorshiroff.github.io/next_year
+music_link: https://taylorshiroff.github.io/music
