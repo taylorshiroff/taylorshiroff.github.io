@@ -24,23 +24,16 @@
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           <h4 id="research">
-              <a href="/research">Research</a>
+              <a href="{{ site.research_link }}">Research</a>
           </h4>
           
           <h4 id="book"> 
-              <a href="/next_year">Next Year in America</a>
+              <a href="{{ site.next_year_link }}">Next Year in America</a>
           </h4>
           
           <h4 id="music"> 
-              <a href="/music">Music</a>
+              <a href="{{ site.music_link }}">Music</a>
           </h4>
-          
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
         </header>
     </div>
 
