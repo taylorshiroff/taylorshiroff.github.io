@@ -1,6 +1,6 @@
-*(All views are my own and do not necessarily reflect those of the Federal Reserve Bank of Cleveland, the Federal Open Market Committee, or the Federal Open Market Committee.)*
+*(All views are my own and do not necessarily reflect those of the Federal Reserve Bank of Cleveland, the Federal Open Market Committee, or the Federal Reserve System.)*
 
-<img src="/me.png" alt="me" width="200"/>
+<img src="/me.png" alt="me" width="300"/>
 
 I am currently a research analyst at the Federal Reserve Bank of Cleveland. My primary research interests are inflation expectations, asset pricing, and time series econometrics. See [here](https://taylorshiroff.github.io/research) for available and forthcoming research.
 
