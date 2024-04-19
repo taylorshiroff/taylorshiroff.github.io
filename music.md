@@ -1,5 +1,5 @@
 ---
-layout: not_mainpage
+layout: music
 ---
 
 ### Desert Fathers
