@@ -1,5 +1,5 @@
 ---
-layout: not_mainpage
+layout: research
 ---
 
 Here you can find all of my currently available economic research (if you are looking for my book, [click here](https://taylorshiroff.github.io/next_year)).
