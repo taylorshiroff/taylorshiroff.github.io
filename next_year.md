@@ -1,5 +1,5 @@
 ---
-layout: not_mainpage
+layout: book
 ---
 
 *Next Year in America* is a book I wrote that tells the story of the roughly two million Jews who immigrated to the United States from Eastern Europe between 1881 and 1924. But rather than taking the traditional approach of telling this story through old primary sources and aging esoteric secondary sources, I tell their story through the lives and experiences of my own ancestors. 
