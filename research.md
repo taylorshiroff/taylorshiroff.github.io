@@ -4,7 +4,7 @@ layout: research
 
 Here you can find all of my currently available economic research (if you are looking for my book, [click here](https://taylorshiroff.github.io/next_year)).
 
-* *Coming soon:* new work that brings a model with rationally inattentive consumers to consumer survey data; testing forecast efficiency when the forecasted variable follows a more general data generating process, and when forecasts are made with noisy information and/or imperfect memory recall; documenting changes in net worth for different age groups between the 2019 and 2022 Surveys of Consumer Finance; using supervisory data on banks to better inform DSGE models with financial sectors; and more...
+* *Coming soon:* new work that brings a model with rationally inattentive consumers to consumer survey data; a more general and robust look at forecast efficiency; a look at consumers' views of the inflation target; using supervisory data on banks to better inform DSGE models with financial sectors; and more...
 
 * ["Consumer Inflation Expectations Across Surveys and over Time"](https://www.clevelandfed.org/publications/economic-commentary/ec-202507-consumer-inflation-expectations-across-surveys-over-time) *Federal Reserve Bank of Cleveland Economic Commentary* EC 2025-07 (with Ina Hajdini, Edward S. Knotek II, John Leer, Mathieu Pedemonte, Damjan Pfajfar, and Raphael Schoenle).
   * From the abstract: Different survey-based measures of consumer inflation expectations have diverged in recent months. This Economic Commentary compares these measures and the survey questions underlying them. Our analysis suggests that the divergences across survey-based measures of inflation expectations can be attributed to various features and sample characteristics specific to each survey.
