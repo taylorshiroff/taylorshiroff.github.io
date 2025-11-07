@@ -1,8 +1,6 @@
-*(All views are my own and do not necessarily reflect those of the Federal Reserve Bank of Cleveland, the Federal Open Market Committee, or the Federal Reserve System.)*
-
 <img src="/me.png" alt="me" width="300"/>
 
-I am currently a research analyst at the Federal Reserve Bank of Cleveland. My primary research interests are inflation expectations, asset pricing, and time series econometrics. See [here](https://taylorshiroff.github.io/research) for available and forthcoming research.
+I am a first-year economics PhD student at Duke University; before that, I spent three years at the Federal Reserve Bank of Cleveland. My primary research interests are inflation expectations, asset pricing, and time series econometrics. See [here](https://taylorshiroff.github.io/research) for available and forthcoming research.
 
 I am also the author of *Next Year in America*, a history, as its subtitle so wisely puts it, "of Eastern European Jews in the old and new worlds." It tells the often forgotten or underappreciated story of Jewish immigration to the United States between 1880 and 1924 while also providing ample context about life before and after that period. But rather than attempting to allow the historical record to speak for itself, I tell the story with plenty of help from the experiences of my own (and very ordinary) ancestors. More information can be found [here](https://taylorshiroff.github.io/next_year); if you're already sold, you can pick up a copy [on Amazon](https://www.amazon.com/Next-Year-America-History-European-ebook/dp/B0D2PQ25VZ/ref=sr_1_1) now.
 
